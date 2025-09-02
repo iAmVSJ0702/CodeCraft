@@ -1,0 +1,10 @@
+streamlit
+streamlit-ace
+streamlit-monaco
+langchain
+langchain-core
+langchain-openai
+edge-tts
+audio_recorder_streamlit
+python-dotenv
+openai
